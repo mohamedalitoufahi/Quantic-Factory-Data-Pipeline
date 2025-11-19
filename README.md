@@ -142,8 +142,8 @@ ON c.commune_code = i.code_insee_commune
 
 - **GitHub Repository:** https://github.com/mohamedalitoufahi/Quantic-Factory-Data-Pipeline
 - **Looker Dashboard:** https://lookerstudio.google.com/reporting/5a2a1daa-ebec-4b8c-905a-b09a215dff0c
-- **Vélib Data Source:** https://tinyurl.com/cfahhs27
-- **Car Registration Data:** https://l1nq.com/RIV2x
+- **Vélib Data Source:** https://opendata.paris.fr/explore/dataset/velib-disponibilite-en-temps-reel/information
+- **Car Registration Data:** https://opendata.agenceore.fr/explore/dataset/voitures-par-commune-par-energie/information/
 
 
 

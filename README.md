@@ -18,6 +18,9 @@ Among the benefits promoted by bike-sharing projects like Vélib is the reductio
 - **Private Cars Registered by Commune and Charging Type**  
   Source: https://opendata.agenceore.fr/explore/dataset/voitures-par-commune-par-energie/information/
 
+  **Interactive Dashboard:**  
+[View Looker Studio Report](https://lookerstudio.google.com/reporting/5a2a1daa-ebec-4b8c-905a-b09a215dff0c)
+
 ---
 
 ## 🛠️ Tech Stack

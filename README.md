@@ -145,12 +145,6 @@ ON c.commune_code = i.code_insee_commune
 - **Vélib Data Source:** https://tinyurl.com/cfahhs27
 - **Car Registration Data:** https://l1nq.com/RIV2x
 
----
 
-## 📝 License
-
-This project was completed as part of a Data Analysis and DataOps exercise at INSAT.
-
----
 
 **Thank you for your interest in this project!**

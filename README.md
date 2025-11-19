@@ -13,10 +13,10 @@ A data analysis project examining the relationship between available Vélib bike
 Among the benefits promoted by bike-sharing projects like Vélib is the reduction in the need for private cars. To test this impact and inform public policy, we analyze two Open Data Paris datasets:
 
 - **Vélib: Bikes and Stations - Real-time Availability**  
-  Source: https://tinyurl.com/cfahhs27
+  Source: https://opendata.paris.fr/explore/dataset/velib-disponibilite-en-temps-reel/information
 
 - **Private Cars Registered by Commune and Charging Type**  
-  Source: https://l1nq.com/RIV2x
+  Source: https://opendata.agenceore.fr/explore/dataset/voitures-par-commune-par-energie/information/
 
 ---
 
